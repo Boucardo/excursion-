@@ -8,3 +8,16 @@ h3 {
     color:rgb(0, 247, 255)
 
 }
+p {
+    color:grey;
+}
+h3 {
+    text-decoration: underline;
+}
+. h3 {
+    text-decoration: underline;
+}
+footer {
+    color: grey;
+    text-align: right;
+}
